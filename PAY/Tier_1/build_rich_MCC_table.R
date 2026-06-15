@@ -1,6 +1,5 @@
-library(tidyverse)
 
-source("PAY/DoNotShare/parameters.R")
+# Building a table of MCC codes based on several sources -------------------
 
 MCC.table <- read.table(
     file = country.parameters$MCC.table.file$path,
