@@ -1,6 +1,8 @@
 # Files not to be shared
 DoNotShare/
 
+results/
+
 # History files
 .Rhistory
 .Rapp.history
